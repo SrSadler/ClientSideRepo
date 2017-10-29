@@ -1,1 +1,2 @@
-text file
+text file, changes at the end of the file
+a new line
